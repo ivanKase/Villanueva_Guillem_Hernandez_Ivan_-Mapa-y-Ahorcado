@@ -1,0 +1,11 @@
+﻿  Villanueva_Guillem_Hernandez_Ivan.cpp
+C:\Users\ivanx\source\repos\Villanueva_Guillem_Hernandez_Ivan\Villanueva_Guillem_Hernandez_Ivan\Villanueva_Guillem_Hernandez_Ivan.cpp(70,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ivanx\source\repos\Villanueva_Guillem_Hernandez_Ivan\Villanueva_Guillem_Hernandez_Ivan\Villanueva_Guillem_Hernandez_Ivan.cpp(86,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+      C:\Users\ivanx\source\repos\Villanueva_Guillem_Hernandez_Ivan\Villanueva_Guillem_Hernandez_Ivan\Villanueva_Guillem_Hernandez_Ivan.cpp(86,17):
+      los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+      C:\Users\ivanx\source\repos\Villanueva_Guillem_Hernandez_Ivan\Villanueva_Guillem_Hernandez_Ivan\Villanueva_Guillem_Hernandez_Ivan.cpp(86,17):
+      el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+      C:\Users\ivanx\source\repos\Villanueva_Guillem_Hernandez_Ivan\Villanueva_Guillem_Hernandez_Ivan\Villanueva_Guillem_Hernandez_Ivan.cpp(86,17):
+      este argumento se utiliza como un tamaño de búfer
+  
+  Villanueva_Guillem_Hernandez_Ivan.vcxproj -> C:\Users\ivanx\source\repos\Villanueva_Guillem_Hernandez_Ivan\x64\Debug\Villanueva_Guillem_Hernandez_Ivan.exe
